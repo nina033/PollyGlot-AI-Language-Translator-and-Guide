@@ -1,0 +1,3 @@
+[submodule "open-ai-worker"]
+	path = open-ai-worker
+	url = ./PollyGlot_AI
